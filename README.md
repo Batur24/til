@@ -3,7 +3,13 @@ Today I learned
 
 ### 目录
 
+* [Chrome](#chrome)
 * [Git](#git)
+
+### Chrome
+
+- [Extensions](chrome/extensions.md)
+
 
 ### Git
 
