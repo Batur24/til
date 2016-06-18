@@ -5,6 +5,7 @@ Today I learned
 
 * [Chrome](#chrome)
 * [Git](#git)
+* [Vim](#vim)
 
 ### Chrome
 
@@ -14,6 +15,12 @@ Today I learned
 ### Git
 
 - [Remove untracked files from the working tree](git/git-clean.md)
+
+
+### Vim
+
+- [plugin](vim/plugin.md)
+
 
 ## About
 
