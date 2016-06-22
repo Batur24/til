@@ -7,6 +7,7 @@ Today I learned
 * [Git](#git)
 * [Vim](#vim)
 * [Linux](#linux)
+* [Tools](#tools)
 
 ### Chrome
 
@@ -21,6 +22,11 @@ Today I learned
 ### Linux
 
 - [Switch between instances of the current application](linux/switch-application.md)
+
+
+### Tools
+
+- [Tools I used](tools/tools-i-used.md)
 
 ### Vim
 
