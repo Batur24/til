@@ -6,6 +6,7 @@ Today I learned
 * [Chrome](#chrome)
 * [Git](#git)
 * [Vim](#vim)
+* [Linux](#linux)
 
 ### Chrome
 
@@ -16,6 +17,10 @@ Today I learned
 
 - [Remove untracked files from the working tree](git/git-clean.md)
 
+
+### Linux
+
+- [Switch between instances of the current application](linux/switch-application.md)
 
 ### Vim
 
