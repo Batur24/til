@@ -1,0 +1,39 @@
+<html>
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/0.12.7/vue.min.js"></script> 
+</head>
+
+<body>
+
+  <div id="my_view">
+    <ul>
+      <li v-repeat="friends | filterBy 'k' ">{{ name }}</li>
+    </ul>
+    <label for="name">Enter name:</label>
+    <input type="text" v-model="name" id="name" name="name" />
+    {{name | uppercase}} is {{age}} years old
+    <button v-on="click: myClickHandler">Say Hello </button>
+  </div>
+
+  <script>
+    var myModel = {
+      name: "Ashley",
+      age: 24,
+      friends: [
+        { name: "Bob", age: 25},
+        { name: "Bok", age: 21},
+        { name: "Anna", age: 29}
+      ]
+    };
+    var myViewModel = new Vue({
+      el: '#my_view',
+      data: myModel,
+      methods: {
+        myClickHandler: function(e){
+          alert("Hello " + e.targetVM.name);
+        }
+      }
+    })
+  </script>
+</body>
+</html>
