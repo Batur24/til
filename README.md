@@ -18,6 +18,7 @@ Today I learned
 ### CSS
 
 - [CSS clear Property](css/css-clear-property.md)
+- [CSS ::before Selector](css/css-before-selector.md)
 
 
 ### Git
@@ -37,6 +38,7 @@ Today I learned
 ### Vim
 
 - [plugin](vim/plugin.md)
+- [Delete ^M](vim/delete-^M.md)
 
 
 ## About
