@@ -41,6 +41,8 @@ Today I learned
 - [plugin](vim/plugin.md)
 - [Delete ^M](vim/delete-^M.md)
 - [Ctags](vim/ctags.md)
+- [Comment](vim/comment.md)
+
 
 
 ## About
