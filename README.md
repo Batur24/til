@@ -43,6 +43,7 @@ Today I learned
 - [Ctags](vim/ctags.md)
 - [Comment](vim/comment.md)
 - [Increase and descrease number](vim/increase-and-descrease-number.md)
+- [replace a single word](vim/replace-a-single-word.md)
 
 
 
