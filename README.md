@@ -42,6 +42,7 @@ Today I learned
 - [Delete ^M](vim/delete-^M.md)
 - [Ctags](vim/ctags.md)
 - [Comment](vim/comment.md)
+- [Increase and descrease number](vim/increase-and-descrease-number.md)
 
 
 
