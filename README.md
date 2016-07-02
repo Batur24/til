@@ -45,6 +45,7 @@ Today I learned
 - [Increase and descrease number](vim/increase-and-descrease-number.md)
 - [replace a single word](vim/replace-a-single-word.md)
 - [Paste in command mode](vim/paste-in-command-mode.md)(http://stackoverflow.com/questions/3997078/how-to-paste-yanked-text-into-vim-command-line)
+- [markdown plugin](vim/markdown-plugin.md)
 
 
 ## About

@@ -14,4 +14,5 @@
 + Plugin 'mattn/emmet-vim'
 + Plugin 'kien/ctrlp.vim'
 + Plugin 'vim-scripts/django.vim'
++ [Plugin 'vim-instant-markdown'](https://github.com/suan/vim-instant-markdown)
 
