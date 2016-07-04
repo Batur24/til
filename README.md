@@ -13,6 +13,7 @@ Today I learned
 ### Chrome
 
 - [Extensions](chrome/extensions.md)
+- [ColorPicker](chrome/colorpicker.md)
 
 
 ### CSS
