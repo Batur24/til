@@ -38,13 +38,13 @@ Today I learned
 
 ### Vim
 
-- [plugin](vim/plugin.md)
++ [plugin](vim/plugin.md)
 - [Delete ^M](vim/delete-^M.md)
 - [Ctags](vim/ctags.md)
 - [Comment](vim/comment.md)
 - [Increase and descrease number](vim/increase-and-descrease-number.md)
 - [replace a single word](vim/replace-a-single-word.md)
-- [Paste in command mode](vim/paste-in-command-mode.md)(http://stackoverflow.com/questions/3997078/how-to-paste-yanked-text-into-vim-command-line)
+- [Paste in command mode](vim/paste-in-command-mode.md)
 - [markdown plugin](vim/markdown-plugin.md)
 
 
