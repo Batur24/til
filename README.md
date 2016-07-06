@@ -36,10 +36,11 @@ Today I learned
 ### Tools
 
 - [Tools I used](tools/tools-i-used.md)
+- [vtop](tools/vtop.md)
 
 ### Vim
 
-+ [plugin](vim/plugin.md)
+- [plugin](vim/plugin.md)
 - [Delete ^M](vim/delete-^M.md)
 - [Ctags](vim/ctags.md)
 - [Comment](vim/comment.md)
