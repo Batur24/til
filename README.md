@@ -32,6 +32,9 @@ Today I learned
 - [Switch between instances of the current application](linux/switch-application.md)
 - [StackOverFlow command line tool](linux/stackoverflow-command-line-tool.md)
 
+### Mac
+- [mac-shortcut](mac/mac-shortcut.md)
+
 
 ### Tools
 
