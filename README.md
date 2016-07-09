@@ -5,6 +5,7 @@ Today I learned
 
 * [Chrome](#chrome)
 * [CSS](#css)
+* [Django](#django)
 * [Git](#git)
 * [Vim](#vim)
 * [Linux](#linux)
@@ -21,6 +22,9 @@ Today I learned
 - [CSS clear Property](css/css-clear-property.md)
 - [CSS ::before Selector](css/css-before-selector.md)
 
+
+### Django
+- [Django ORM](django/django-orm.md)
 
 ### Git
 
