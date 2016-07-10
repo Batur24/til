@@ -25,6 +25,7 @@ Today I learned
 
 ### Django
 - [Django ORM](django/django-orm.md)
+- [Django querysets raw sql](django/django-querysets-raw-sql.md)
 
 ### Git
 
