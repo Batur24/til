@@ -26,7 +26,8 @@ Today I learned
 ### Django
 - [Django ORM](django/django-orm.md)
 - [Django querysets raw sql](django/django-querysets-raw-sql.md)
-- [Get Host Name](django/get-host-name)
+- [Get Host Name](django/get-host-name.md)
+- [Query Two Models](django/query-two-models.md)
 
 ### Git
 
