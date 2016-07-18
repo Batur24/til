@@ -33,6 +33,7 @@ Today I learned
 ### Git
 
 - [Remove untracked files from the working tree](git/git-clean.md)
+- [Git log](git/git-log.md)
 
 
 ### Linux
