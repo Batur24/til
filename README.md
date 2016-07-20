@@ -44,6 +44,7 @@ Today I learned
 ### Mac
 - [mac-shortcut](mac/mac-shortcut.md)
 - [command-d](mac/command-d.md)
+- [touch](mac/touch.md)
 
 
 ### Tools
