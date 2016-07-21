@@ -9,6 +9,8 @@ Today I learned
 * [Git](#git)
 * [Vim](#vim)
 * [Linux](#linux)
+* [Mac](#mac)
+* [Python](#python)
 * [Tools](#tools)
 
 ### Chrome
@@ -46,6 +48,10 @@ Today I learned
 - [mac-shortcut](mac/mac-shortcut.md)
 - [command-d](mac/command-d.md)
 - [touch](mac/touch.md)
+
+
+### Python
+- [python-pip](python/pip.md)
 
 
 ### Tools
