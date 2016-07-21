@@ -21,6 +21,7 @@ Today I learned
 
 - [CSS clear Property](css/css-clear-property.md)
 - [CSS ::before Selector](css/css-before-selector.md)
+- [CSS :focus](css/css-focus.md)
 
 
 ### Django
