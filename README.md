@@ -54,6 +54,7 @@ Today I learned
 ### Python
 - [python-pip](python/pip.md)
 - [python-isinstance](python/isinstance.md)
+- [python-decorator](python/decorator.md)
 
 
 ### Tools
