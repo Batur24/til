@@ -1,5 +1,5 @@
 # til
-今天我学习到了
+>今天我学习到了
 
 ### 目录
 
@@ -82,7 +82,6 @@
 
 ## About
 
-I shamelessly stole this idea from 
-[jbranchaud/til](https://github.com/jbranchaud/til).
+这个想法是我从[jbranchaud/til](https://github.com/jbranchaud/til)那里偷来的:-)
 
 
