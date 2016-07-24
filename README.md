@@ -1,5 +1,5 @@
 # til
-Today I learned
+今天我学习到了
 
 ### 目录
 
@@ -55,6 +55,7 @@ Today I learned
 - [python-pip](python/pip.md)
 - [python-isinstance](python/isinstance.md)
 - [python-decorator](python/decorator.md)
+- [python-built-in-functions](python/built-in-functions.md)
 
 
 ### Tools
