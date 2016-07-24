@@ -7,11 +7,12 @@
 * [CSS](#css)
 * [Django](#django)
 * [Git](#git)
-* [Vim](#vim)
 * [Linux](#linux)
 * [Mac](#mac)
 * [Python](#python)
+* [Tmux](#tmux)
 * [Tools](#tools)
+* [Vim](#vim)
 
 ### Chrome
 
@@ -57,6 +58,10 @@
 - [python-decorator](python/decorator.md)
 - [python-built-in-functions](python/built-in-functions.md)
 
+
+### Tmux
+
+- [Jumping between sessions](tmux/jumping-between-sessions.md)
 
 ### Tools
 
