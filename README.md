@@ -78,6 +78,7 @@
 - [replace a single word](vim/replace-a-single-word.md)
 - [Paste in command mode](vim/paste-in-command-mode.md)
 - [markdown plugin](vim/markdown-plugin.md)
+- [Remap fold space](vim/remap-fold-space.md)
 
 
 ## About
