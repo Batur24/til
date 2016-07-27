@@ -57,6 +57,7 @@
 - [python-isinstance](python/isinstance.md)
 - [python-decorator](python/decorator.md)
 - [python-built-in-functions](python/built-in-functions.md)
+- [python chardet module](python/python-chardet-module.md)
 
 
 ### Tmux
@@ -80,6 +81,7 @@
 - [markdown plugin](vim/markdown-plugin.md)
 - [Python mode](vim/python-mode.md)
 - [Remap fold space](vim/remap-fold-space.md)
+- [Leader Key](vim/leader-key.md)
 
 
 ## About
