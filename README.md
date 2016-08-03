@@ -59,6 +59,7 @@
 - [python-decorator](python/decorator.md)
 - [python-built-in-functions](python/built-in-functions.md)
 - [python chardet module](python/python-chardet-module.md)
+- [python classmethod](python/classmethod.md)
 
 
 ### Tmux
