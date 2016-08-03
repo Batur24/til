@@ -33,6 +33,7 @@
 - [Get Host Name](django/get-host-name.md)
 - [Get URL](django/get-url.md)
 - [Query Two Models](django/query-two-models.md)
+- [Django middleware](django/middleware.md)
 
 ### Git
 
