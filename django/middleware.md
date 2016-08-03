@@ -12,16 +12,20 @@
 允许特定ip访问
 ```
 # filter_ip_middleware.py
+
+from django.http import HttpResponseForbidden
+
+# filter_ip_middleware.py
 class FilterIPMiddleware(object):
     # Check if client IP is allowed
     def process_request(self, request):
-        allowed_ips = ['192.168.1.1', '123.123.123.123', etc...] # Authorized ip's
+        allowed_ips = ['192.168.1.1', '192.168.1.108']# Authorized ip's
         ip = request.META.get('REMOTE_ADDR') # Get client IP
         if ip not in allowed_ips:
-            raise Http403 # If user is not allowed raise Error
+            return HttpResponseForbidden()# If user is not allowed raise Error
 
        # If IP is allowed we don't do anything
-       return None
+        return None
 ```
 ## 设置
 在settings.py中设置
@@ -42,4 +46,5 @@ MIDDLEWARE_CLASSES = (
 ## 说明
 方法process_request是必须的，如果返回异常，直接返回;如果正常，返回None，交给下一个中间件处理。
 
-[参考1](http://stackoverflow.com/questions/18322262/how-to-setup-custom-middleware-in-django)
+[参考1 自定义中间件](http://stackoverflow.com/questions/18322262/how-to-setup-custom-middleware-in-django)  
+[参考2 返回禁止访问](http://stackoverflow.com/questions/6618939/how-do-i-raise-a-response-forbidden-in-django)
