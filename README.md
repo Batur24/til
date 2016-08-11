@@ -40,6 +40,7 @@
 
 - [Remove untracked files from the working tree](git/git-clean.md)
 - [Git log](git/git-log.md)
+- [Git pull request](git/git-pull-request.md)
 
 
 ### Linux
