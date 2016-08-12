@@ -22,10 +22,10 @@ abs(a) # 5.0
 
 ## all()
 
-```
-Return True if all elements of the iterable are true 
-(or if the iterable is empty). 
-Equivalent to:
+```python
+# Return True if all elements of the iterable are true 
+# (or if the iterable is empty). 
+# Equivalent to:
 
 def all(iterable):
     for element in iterable:
@@ -40,3 +40,24 @@ all(a) # True
 a = [1,2,0]
 all(a) # False
 ```
+
+## any()
+```python
+# Return True if any element of the iterable is true. 
+# If the iterable is empty, return False. Equivalent to:
+def any(iterable):
+    for element in iterable:
+        if element:
+            return True
+    return False
+```
+可迭代的元素有一个不为空，返回True, 所有为空False
+例子
+```python
+a = (1,2,0,"test")
+print any(a) # True
+b = (0,0,"")
+print any(b) # False
+```
+
+
