@@ -62,6 +62,7 @@
 - [python-built-in-functions](python/built-in-functions.md)
 - [python chardet module](python/python-chardet-module.md)
 - [python classmethod](python/classmethod.md)
+- [python staticmethod](python/staticmethod.md)
 
 
 ### Tmux
