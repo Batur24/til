@@ -60,4 +60,16 @@ b = (0,0,"")
 print any(b) # False
 ```
 
-
+## join()
+```python
+	# The method join() returns a string 
+	# in which the string elements of sequence 
+	# have been joined by str separator.
+	a1 = ["a","b","c"]
+	a2 = "abcde"
+	b1 = ",".join(a1)
+	b2 = ",".join(a2)
+	print b1 # "a,b,c"
+	print b2 # "a,b,c,d,e"
+```
+可迭代的字符元素用指定的字符连接起来
