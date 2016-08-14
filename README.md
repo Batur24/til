@@ -36,6 +36,7 @@
 - [Get URL](django/get-url.md)
 - [Query Two Models](django/query-two-models.md)
 - [Django middleware](django/middleware.md)
+- [Django related name](django/related-name.md)
 
 ### Git
 
