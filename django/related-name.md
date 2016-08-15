@@ -7,20 +7,20 @@
 form django.db import models
 
 class Game(models.Model):
-    user = ForeignKey(User, related_name="players)
+    player = ForeignKey(User, related_name="players")
+    judger = ForeignKey(User, related_name="judgers")
     level = models.IntegerField()
 
-lol = Game.objects.get(id=1)
-lol.players.all() #返回所有User结果
-lol.user_set.all() #返回所有User结果
+g1 = Game.objects.create(player=u1, judger=u20, level=9)
+g2 = Game.objects.create(player=u2, judger=u20, level=9)
+g3 Game.objects.create(player=u3, judger=u20, level=9)
 
-# 原生sql语句为:
-select ... # check it later
+
+g1.judger.judgers.all() #返回上面三个Game对象,所有judger为u20的Game对象
+Game.objects.filter(judger=lol.judger) #效果跟上面相同
 
 ```
-如果一个model里有两个ForeignKey, 都是指向同一个table, 那会产生两个FOO_set, 所以这时必须声明related_name
-> 这个时候用FOO_set会是哪个呢? 还可以用吗?
-
+related_name="+", 不向后关联
 
 [Django document](https://docs.djangoproject.com/en/dev/ref/models/fields/#django.db.models.ForeignKey.related_name)  
 [What is `related_name` used for in Django?](http://stackoverflow.com/questions/2642613/what-is-related-name-used-for-in-django)
