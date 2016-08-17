@@ -16,3 +16,4 @@
 + Plugin 'vim-scripts/django.vim'
 + [Plugin 'vim-instant-markdown'](https://github.com/suan/vim-instant-markdown)
 + [python-mode](https://github.com/klen/python-mode)
++ Plugin 'metakirby5/codi.vim'

@@ -94,6 +94,7 @@
 - [Python mode](vim/python-mode.md)
 - [Remap fold space](vim/remap-fold-space.md)
 - [Leader Key](vim/leader-key.md)
+- [Codi plugin](vim/codi-plugin.md)
 
 
 ## About
