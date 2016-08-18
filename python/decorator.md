@@ -16,3 +16,21 @@ def tesing(name):
 
 tesing("David") #hello David
 ```
+
+带参数的装饰器，和不带参数的装饰器，不一样，中间多了一个函数。
+```
+def greet(greet_word):
+	def decorator(func):
+		def wapper(func_param):
+			print greet_word + " "
+			return func(func_param)
+		return wapper
+	return decorator
+
+@greet("hey")
+def meet(name):
+	print name
+
+meet("join") # hey join
+
+```
