@@ -60,6 +60,43 @@ b = (0,0,"")
 print any(b) # False
 ```
 
+## getattr(object, name[, default])
+获取对象属性
+```python
+# Return the value of the named attribute of object. 
+# name must be a string. 
+# If the string is the name of one of the object’s attributes, 
+# the result is the value of that attribute. 
+# For example, getattr(x, 'foobar') is equivalent to x.foobar. 
+# If the named attribute does not exist, 
+# default is returned if provided, 
+# otherwise AttributeError is raised.
+
+class Play:
+	def play(self):
+		return "let's play"
+
+p = Play()
+action = getattr(p, "play)
+action() # let's play
+
+```
+## hasattr(object, name)
+对象是否有指定的属性
+```python
+# The arguments are an object and a string. 
+# The result is True 
+# if the string is the name of one of the object’s attributes, 
+# False if not. 
+# (This is implemented by calling getattr(object, name) 
+# and seeing whether it raises an exception or not.)
+
+class Play:
+	def play(self):
+		return "let's play"
+
+hasattr(Play, "play") # True
+```
 ## join()
 ```python
 	# The method join() returns a string 
@@ -73,3 +110,5 @@ print any(b) # False
 	print b2 # "a,b,c,d,e"
 ```
 可迭代的字符元素用指定的字符连接起来
+
+
