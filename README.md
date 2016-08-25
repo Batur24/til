@@ -14,6 +14,7 @@
 * [Tmux](#tmux)
 * [Tools](#tools)
 * [Vim](#vim)
+* [Other](#other)
 
 ### Chrome
 
@@ -98,6 +99,9 @@
 - [Leader Key](vim/leader-key.md)
 - [Codi plugin](vim/codi-plugin.md)
 
+
+### Other
+- [html input type](other/html-input-type.md)
 
 ## About
 
