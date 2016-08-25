@@ -98,6 +98,7 @@
 - [Remap fold space](vim/remap-fold-space.md)
 - [Leader Key](vim/leader-key.md)
 - [Codi plugin](vim/codi-plugin.md)
+- [Rotate letter](vim/rotate-letter.md)
 
 
 ### Other
