@@ -67,6 +67,7 @@
 - [python classmethod](python/classmethod.md)
 - [python staticmethod](python/staticmethod.md)
 - [module unipath](python/module-unipath.md)
+- [collections](python/collections.md)
 
 
 ### ReactJs
