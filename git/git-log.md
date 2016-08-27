@@ -1,5 +1,7 @@
 
 
+# git log
+
 ## -p 
 Show the patch introduced with each commit.
 
