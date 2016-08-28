@@ -49,6 +49,7 @@
 
 ### Javascript
 - [for...in](javascript/for-in.md)
+- [prototype](javascript/prototype.md)
 
 ### Linux
 
