@@ -6,6 +6,7 @@
 * [Chrome](#chrome)
 * [CSS](#css)
 * [Django](#django)
+* [Elm](#elm)
 * [Git](#git)
 * [Javascript](#javascript)
 * [Linux](#linux)
@@ -22,7 +23,6 @@
 - [Extensions](chrome/extensions.md)
 - [ColorPicker](chrome/colorpicker.md)
 
-
 ### CSS
 
 - [CSS clear Property](css/css-clear-property.md)
@@ -30,6 +30,8 @@
 - [CSS :focus](css/css-focus.md)
 - [CSS @media](css/css-@media.md)
 
+### Elm
+- [Elm basic](elm/eml-basic.md)
 
 ### Django
 - [Django ORM](django/django-orm.md)
