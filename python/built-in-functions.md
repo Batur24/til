@@ -60,6 +60,14 @@ b = (0,0,"")
 print any(b) # False
 ```
 
+## filter()
+
+filter函数,filter(f, l),用函数f将列表l的元素筛选出来
+```python
+    filter(lambda x : type(x) == int, [3,2,0,"",True]) #[3,2,0]
+```
+
+
 ## getattr(object, name[, default])
 获取对象属性
 ```python
@@ -110,6 +118,17 @@ hasattr(Play, "play") # True
 	print b2 # "a,b,c,d,e"
 ```
 可迭代的字符元素用指定的字符连接起来
+
+## map()
+map函数,对列表中的每个元素进行操作
+
+```python
+
+f = lambda x : x * 10
+l = [2,3,1]
+new_l = map(f,l) # f是函数,l是列表; new_l = [20,30,10)
+
+```
 
 ## zip()
 从每个可迭代的参数中取出元素组成元组的列表
