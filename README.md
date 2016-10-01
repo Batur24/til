@@ -53,6 +53,7 @@
 ### Javascript
 - [for...in](javascript/for-in.md)
 - [prototype](javascript/prototype.md)
+- [ES6 Template Literals](javascript/es6-template-literals.md)
 
 ### Linux
 
