@@ -54,6 +54,7 @@
 - [for...in](javascript/for-in.md)
 - [prototype](javascript/prototype.md)
 - [ES6 Template Literals](javascript/es6-template-literals.md)
+- [Weird-Javascript](Javascript/weird-javascript.md)
 
 ### Linux
 
