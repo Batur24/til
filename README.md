@@ -50,6 +50,10 @@
 - [Git log](git/git-log.md)
 - [Git pull request](git/git-pull-request.md)
 
+### Haskell
+
+- [Haskell Resource](haskell/haskell-resource.md)
+
 ### Javascript
 - [for...in](javascript/for-in.md)
 - [prototype](javascript/prototype.md)
