@@ -79,6 +79,7 @@
 - [python staticmethod](python/staticmethod.md)
 - [module unipath](python/module-unipath.md)
 - [collections](python/collections.md)
+- [file operation](python/file-operation.md)
 - [flask](python/flask.md)
 
 
