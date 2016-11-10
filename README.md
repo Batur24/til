@@ -21,6 +21,7 @@
 ### Chrome
 
 - [Extensions](chrome/extensions.md)
+- [Vimium](chrome/vimium.md)
 - [ColorPicker](chrome/colorpicker.md)
 
 ### CSS
