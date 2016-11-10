@@ -44,6 +44,7 @@
 - [Django middleware](django/middleware.md)
 - [Django related name](django/related-name.md)
 - [Django custom command](django/custom-command.md)
+- [Django F() expressions](django/django-f-expressions.md)
 
 ### Git
 
