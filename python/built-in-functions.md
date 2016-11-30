@@ -130,6 +130,19 @@ new_l = map(f,l) # f是函数,l是列表; new_l = [20,30,10)
 
 ```
 
+## reduce()
+归纳列表
+
+```python
+from operator import add, mul
+l = [2,3,1,4]
+reduce(add, l) #10, 全部相加
+reduce(add, l, 10) #20, 加上初始值
+reduce(mul, l) #24, 全部相乘
+
+
+```
+
 ## zip()
 从每个可迭代的参数中取出元素组成元组的列表
 ```python
