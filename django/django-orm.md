@@ -14,3 +14,10 @@
 ```
 
 参考 https://docs.djangoproject.com/en/1.9/topics/db/optimization/
+
+
+> 返回包含字典数据的列表
+```
+    result = QuerySet.values() # return ValuesQuerySet object
+    list_result = [entry for entry in result] # return list with dict inside
+```
