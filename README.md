@@ -74,6 +74,7 @@
 - [command-d](mac/command-d.md)
 - [touch](mac/touch.md)
 - [Find process base on port](mac/find-process-base-on-port.md)
+- [Iterm2 Change Profile](mac/iterm2-change-profile.md)
 
 
 ### Python
