@@ -89,6 +89,7 @@
 - [file operation](python/file-operation.md)
 - [python json](python/python-json.md)
 - [flask](python/flask.md)
+- [python string unicode](python/string-unicode.md)
 
 
 ### ReactJs
