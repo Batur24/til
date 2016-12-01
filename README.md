@@ -45,6 +45,7 @@
 - [Django related name](django/related-name.md)
 - [Django custom command](django/custom-command.md)
 - [Django F() expressions](django/django-f-expressions.md)
+- [Django logger](django/django-logger.md)
 
 ### Git
 
