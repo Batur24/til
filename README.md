@@ -91,6 +91,7 @@
 - [python json](python/python-json.md)
 - [flask](python/flask.md)
 - [python string unicode](python/string-unicode.md)
+- [python xlwt](python/xlwt.md)
 
 
 ### ReactJs
