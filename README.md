@@ -127,6 +127,7 @@
 ### Other
 - [html input type](other/html-input-type.md)
 - [bash function](other/bash-function.md)
+- [emacs](other/emacs.md)
 
 ## About
 
