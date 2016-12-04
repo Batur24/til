@@ -56,6 +56,7 @@
 ### Haskell
 
 - [Haskell Resource](haskell/haskell-resource.md)
+- [Haskell Execute](haskell/haskell-execute.md)
 
 ### Javascript
 - [for...in](javascript/for-in.md)
