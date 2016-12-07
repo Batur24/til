@@ -64,6 +64,7 @@
 - [ES6 Template Literals](javascript/es6-template-literals.md)
 - [Weird-Javascript](Javascript/weird-javascript.md)
 - [map function](Javascript/map-function.md)
+- [reduce function](Javascript/map-function.md)
 
 ### Linux
 
