@@ -65,6 +65,7 @@
 - [Weird-Javascript](Javascript/weird-javascript.md)
 - [map function](Javascript/map-function.md)
 - [reduce function](Javascript/map-function.md)
+- [concat function](Javascript/concat-function.md)
 
 ### Linux
 
