@@ -29,6 +29,13 @@ http://stackoverflow.com/questions/6628476/renaming-a-virtualenv-folder-without-
 + *args and **kwargs
 + python command line timeit
 + ord() and chr()
++ pprint
++ pymongo/flask-pymongo
 
 ### Javascript
 [for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+
+
+### Database
++ sqlite
++ mongodb

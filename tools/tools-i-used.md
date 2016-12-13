@@ -10,6 +10,9 @@
 ## Desktop Software
 
 + chrome
++ postman
++ sublime
++ pycharm
 
 
 ## Chrome Extensions
