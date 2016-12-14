@@ -133,6 +133,7 @@
 - [html input type](other/html-input-type.md)
 - [bash function](other/bash-function.md)
 - [emacs](other/emacs.md)
+- [markdown](other/markdown.md)
 
 ## About
 
