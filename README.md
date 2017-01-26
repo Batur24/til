@@ -68,6 +68,7 @@
 - [reduce function](Javascript/map-function.md)
 - [concat function](Javascript/concat-function.md)
 - [class](Javascript/class.md)
+- [for...of](javascript/for-of.md)
 
 ### Linux
 
