@@ -65,7 +65,8 @@
 - [ES6 Template Literals](javascript/es6-template-literals.md)
 - [Weird-Javascript](Javascript/weird-javascript.md)
 - [map function](Javascript/map-function.md)
-- [reduce function](Javascript/map-function.md)
+- [reduce function](Javascript/reduce-function.md)
+- [filter function](Javascript/filter-function.md)
 - [concat function](Javascript/concat-function.md)
 - [class](Javascript/class.md)
 - [for...of](javascript/for-of.md)
@@ -100,6 +101,7 @@
 - [python string unicode](python/string-unicode.md)
 - [python xlwt](python/xlwt.md)
 - [python pdb](python/pdb.md)
+- [python threading](python/threading.md)
 
 
 ### ReactJs
