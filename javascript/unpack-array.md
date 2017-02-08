@@ -1,0 +1,8 @@
+
+# Unpack Array
+
+```javascript
+let [x, y] = [1, 2]
+x // 1
+y // 2
+```
