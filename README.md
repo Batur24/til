@@ -52,6 +52,7 @@
 - [Remove untracked files from the working tree](git/git-clean.md)
 - [Git log](git/git-log.md)
 - [Git pull request](git/git-pull-request.md)
+- [Git cherry-pick](git/cherry-pick.md)
 
 ### Haskell
 
@@ -118,6 +119,7 @@
 
 - [Tools I used](tools/tools-i-used.md)
 - [vtop](tools/vtop.md)
+- [webstorm](tools/webstorm.md)
 
 ### Vim
 
