@@ -86,6 +86,7 @@
 - [touch](mac/touch.md)
 - [Find process base on port](mac/find-process-base-on-port.md)
 - [Iterm2 Change Profile](mac/iterm2-change-profile.md)
+- [Iterm2 cheatsheet](mac/iterm2-cheatsheet.md)
 
 
 ### Python
