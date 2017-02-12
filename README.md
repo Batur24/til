@@ -121,6 +121,7 @@
 - [Tools I used](tools/tools-i-used.md)
 - [vtop](tools/vtop.md)
 - [webstorm](tools/webstorm.md)
+- [youtube-dl](tools/youtube-dl.md)
 
 ### Vim
 
