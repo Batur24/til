@@ -53,6 +53,7 @@
 - [Git log](git/git-log.md)
 - [Git pull request](git/git-pull-request.md)
 - [Git cherry-pick](git/cherry-pick.md)
+- [Git cached](git/git-cached.md)
 
 ### Haskell
 
@@ -106,6 +107,7 @@
 - [python xlwt](python/xlwt.md)
 - [python pdb](python/pdb.md)
 - [python threading](python/threading.md)
+- [python platform](python/platform.md)
 
 
 ### ReactJs
