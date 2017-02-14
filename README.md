@@ -54,6 +54,7 @@
 - [Git pull request](git/git-pull-request.md)
 - [Git cherry-pick](git/cherry-pick.md)
 - [Git cached](git/git-cached.md)
+- [Git whatchanged](git/git-whatchanged.md)
 
 ### Haskell
 
