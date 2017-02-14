@@ -27,6 +27,8 @@ fs.readFile('package.json', function(err, buf){
 })
 ```
 
+## Link
+[node-md5](https://github.com/pvorb/node-md5)
 
 
 
