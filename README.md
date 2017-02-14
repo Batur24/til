@@ -74,6 +74,7 @@
 - [for...of](javascript/for-of.md)
 - [event](javascript/event.md)
 - [unpack array](javascript/unpack-array.md)
+- [md5](javascript/md5.md)
 
 ### Linux
 
