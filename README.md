@@ -1,5 +1,5 @@
 # til
->今天我学习到了
+Today I learned, 记录每天学习到的新知识。这个项目是我从[jbranchaud/til](https://github.com/jbranchaud/til)那里借鉴过来的
 
 ### 目录
 
@@ -149,9 +149,3 @@
 - [bash function](other/bash-function.md)
 - [emacs](other/emacs.md)
 - [markdown](other/markdown.md)
-
-## About
-
-这个想法是我从[jbranchaud/til](https://github.com/jbranchaud/til)那里偷来的:-)
-
-
