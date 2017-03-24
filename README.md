@@ -25,7 +25,8 @@ Today I learned, 记录每天学习到的新知识。这个项目是我从[jbran
 - [ColorPicker](chrome/colorpicker.md)
 
 ### Csharp
-- [String Literals](css/string-literals.md)
+- [String Literals](csharp/string-literals.md)
+- [array](csharp/array.md)
 
 ### CSS
 
