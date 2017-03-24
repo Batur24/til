@@ -127,6 +127,7 @@ Today I learned, 记录每天学习到的新知识。这个项目是我从[jbran
 - [webstorm](tools/webstorm.md)
 - [youtube-dl](tools/youtube-dl.md)
 - [licecap](tools/licecap.md)
+- [loopy](tools/loopy.md)
 
 ### Vim
 
