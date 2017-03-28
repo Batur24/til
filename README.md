@@ -29,6 +29,7 @@ Today I learned, 记录每天学习到的新知识。这个项目是我从[jbran
 - [String Literals](csharp/string-literals.md)
 - [array](csharp/array.md)
 - [UnitTest](csharp/unittest.md)
+- [enum](csharp/enum.md)
 
 ### CSS
 
