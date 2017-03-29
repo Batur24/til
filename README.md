@@ -100,6 +100,8 @@ Today I learned, 记录每天学习到的新知识。这个项目是我从[jbran
 - [Iterm2 Change Profile](mac/iterm2-change-profile.md)
 - [Iterm2 cheatsheet](mac/iterm2-cheatsheet.md)
 
+### Mysql
+- [date format](mysql/date-format.md)
 
 ### Python
 - [python-pip](python/pip.md)
