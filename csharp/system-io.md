@@ -14,3 +14,4 @@ public void FileExt()
     Assert.AreEqual(".txt", ext, "get the file extension");
 }
 ```
+[Reference](https://msdn.microsoft.com/en-us/library/system.io.path.getextension(v=vs.110).aspx)
