@@ -31,6 +31,7 @@ Today I learned, 记录每天学习到的新知识。这个项目是我从[jbran
 - [UnitTest](csharp/unittest.md)
 - [enum](csharp/enum.md)
 - [dictionary](csharp/dictionary.md)
+- [system-io](csharp/system-io.md)
 
 ### CSS
 
