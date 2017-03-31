@@ -14,3 +14,17 @@ public void TestSelect()
     CollectionAssert.AreEqual(expect, squares);
 }
 ```
+
+## Where
+
+Where method is similar with `filter` in `python` or other languages.
+
+```c#
+[TestMethod]
+    public void TestWhere()
+    {
+        int[] array = { 1, 50, 44 };
+        var result = array.Where(x => x > 45);
+        CollectionAssert.Contains(result.ToList(), 50, "test where");
+    }
+```
