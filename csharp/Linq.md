@@ -3,7 +3,7 @@
 
 ## Select
 
-Select method is similar with `map` in `python` or other languages.
+`Select` method is similar with `map` in `python` or other languages.
 
 ```c#
 [TestMethod]
@@ -17,7 +17,7 @@ public void TestSelect()
 
 ## Where
 
-Where method is similar with `filter` in `python` or other languages.
+`Where` method is similar with `filter` in `python` or other languages.
 
 ```c#
 [TestMethod]
@@ -27,4 +27,18 @@ Where method is similar with `filter` in `python` or other languages.
         var result = array.Where(x => x > 45);
         CollectionAssert.Contains(result.ToList(), 50, "test where");
     }
+```
+
+## Aggregate
+
+`Aggregate` method is similar with `reduce` in `python` or other languages.
+
+```c#
+[TestMethod]
+public void AggregateTest()
+{
+    int[] array = { 1, 50, 50 };
+    int result = array.Aggregate((a, b) => a + b );
+    Assert.AreEqual(101, result, "test Aggregate");
+}
 ```
