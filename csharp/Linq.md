@@ -39,6 +39,20 @@ public void AggregateTest()
 {
     int[] array = { 1, 50, 50 };
     int result = array.Aggregate((a, b) => a + b );
-    Assert.AreEqual(101, result, "test Aggregate");
+Assert.AreEqual(101, result, "test Aggregate");
 }
+```
+
+## Sum
+
+`Sum` method is for adding all numbers in `Linq`
+
+```c#
+[TestMethod]
+    public void TestSum()
+    {
+        List<int> nums = new List<int> { 1, 2, 3 };
+        int sumList = nums.Sum(n => n);
+        Assert.AreEqual(6, sumList, "sum the list");
+    }
 ```
