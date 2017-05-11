@@ -135,6 +135,7 @@ Today I learned, 记录每天学习到的新知识。这个项目是我从[jbran
 ### Tmux
 
 - [Jumping between sessions](tmux/jumping-between-sessions.md)
+- [Tmux Conf](tmux/tmux-conf.md)
 
 ### Tools
 
