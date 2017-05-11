@@ -11,3 +11,4 @@ bind l select-pane -R
 ```
 
 the default `select-pane` is `ctrl-b`
+after modify `.tmux.conf` file, to activate it, execute `tmux source-file ~/.tmux.conf`
