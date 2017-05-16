@@ -1,6 +1,4 @@
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 # til
 Today I learned, 记录每天学习到的新知识。这个项目是我从[jbranchaud/til](https://github.com/jbranchaud/til)那里借鉴过来的
 
