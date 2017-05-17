@@ -1,8 +1,10 @@
 
 # Vimium
 
-options -> Don't let pages steal the focus on load
+Everytime I open `Quora`, it automatically focuses on the search input. When browsing the `reddit`, I read a post that said there's an option that can disable the `focus`.
 
-每次打开quora的时候，自动focus到搜索栏，表示比较愁。在reddit浏览的时候发现vimium有个选项。小开心一下。
+```
+options -> Don't let pages steal the focus on load
+```
 
 
