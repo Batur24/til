@@ -89,6 +89,7 @@ Today I learned, 记录每天学习到的新知识。这个项目是我从[jbran
 - [unpack array](javascript/unpack-array.md)
 - [md5](javascript/md5.md)
 - [test-setup](javascript/test-setup.md)
+- [regex](javascript/regex.md)
 
 ### Linux
 
