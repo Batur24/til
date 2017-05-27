@@ -37,6 +37,7 @@ Today I learned, 记录每天学习到的新知识。这个项目是我从[jbran
 
 ### CSS
 
+- [CSS Progress](css/css-progress.md)
 - [CSS clear Property](css/css-clear-property.md)
 - [CSS ::before Selector](css/css-before-selector.md)
 - [CSS :focus](css/css-focus.md)
