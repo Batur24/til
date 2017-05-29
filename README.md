@@ -1,6 +1,6 @@
 
 # til
-Today I learned, 记录每天学习到的新知识。这个项目是我从[jbranchaud/til](https://github.com/jbranchaud/til)那里借鉴过来的
+Today I learned. It's to note the knowledge I learned as well as cheatsheets for reference. This is inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### 目录
 
