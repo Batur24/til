@@ -62,6 +62,7 @@ Today I learned, 记录每天学习到的新知识。这个项目是我从[jbran
 
 ### Git
 
+- [Git Auth](git/git-auth.md)
 - [Remove untracked files from the working tree](git/git-clean.md)
 - [Git log](git/git-log.md)
 - [Git pull request](git/git-pull-request.md)
