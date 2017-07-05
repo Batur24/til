@@ -62,6 +62,7 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 
 ### Git
 
+- [Git Grep](git/git-grep.md)
 - [Git Auth](git/git-auth.md)
 - [Remove untracked files from the working tree](git/git-clean.md)
 - [Git log](git/git-log.md)
