@@ -102,6 +102,7 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 - [Terminal shortcut](linux/terminal-shortcut.md)
 
 ### Mac
+- [copy and paste](mac/copy-and-paste.md)
 - [mac-shortcut](mac/mac-shortcut.md)
 - [command-d](mac/command-d.md)
 - [touch](mac/touch.md)
@@ -176,3 +177,4 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 - [bash function](other/bash-function.md)
 - [emacs](other/emacs.md)
 - [markdown](other/markdown.md)
+
