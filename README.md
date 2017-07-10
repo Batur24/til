@@ -111,6 +111,7 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 - [Iterm2 cheatsheet](mac/iterm2-cheatsheet.md)
 
 ### Mysql
+- [sql injection](mysql/sql-injection.md)
 - [date format](mysql/date-format.md)
 - [Query Execute Time](mysql/query-execute-time.md)
 
