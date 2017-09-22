@@ -174,6 +174,7 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 
 
 ### Other
+- [Windows Show Desktop Shortcut](other/windows-show-desktop-shortcut.md)
 - [html input type](other/html-input-type.md)
 - [bash function](other/bash-function.md)
 - [emacs](other/emacs.md)
