@@ -37,6 +37,7 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 
 ### CSS
 
+- [CSS Animation](css/css-animation.md)
 - [CSS Progress](css/css-progress.md)
 - [CSS clear Property](css/css-clear-property.md)
 - [CSS ::before Selector](css/css-before-selector.md)
@@ -109,6 +110,7 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 - [Find process base on port](mac/find-process-base-on-port.md)
 - [Iterm2 Change Profile](mac/iterm2-change-profile.md)
 - [Iterm2 cheatsheet](mac/iterm2-cheatsheet.md)
+- [Combine Two Max Window](mac/combine-two-max-window.md)
 
 ### Mysql
 - [sql injection](mysql/sql-injection.md)
