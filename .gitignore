@@ -1,2 +1,5 @@
 learn/css/slider-css3/img/*
 .ropeproject/*
+_site/*
+Gemfile
+Gemfile.lock

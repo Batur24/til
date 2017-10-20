@@ -79,6 +79,7 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 - [Haskell List](haskell/haskell-list.md)
 
 ### Javascript
+- [js-utils](javascript/jsutils.md)
 - [for...in](javascript/for-in.md)
 - [prototype](javascript/prototype.md)
 - [ES6 Template Literals](javascript/es6-template-literals.md)
