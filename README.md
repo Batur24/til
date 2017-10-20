@@ -118,6 +118,7 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 - [Query Execute Time](mysql/query-execute-time.md)
 
 ### Python
+- [flask-framework](python/flask.md)
 - [python-pip](python/pip.md)
 - [python-isinstance](python/isinstance.md)
 - [python-decorator](python/decorator.md)
@@ -129,7 +130,6 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 - [collections](python/collections.md)
 - [file operation](python/file-operation.md)
 - [python json](python/python-json.md)
-- [flask](python/flask.md)
 - [python string unicode](python/string-unicode.md)
 - [python xlwt](python/xlwt.md)
 - [python pdb](python/pdb.md)
