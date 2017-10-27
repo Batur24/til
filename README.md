@@ -37,6 +37,7 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 
 ### CSS
 
+- [CSS Textarea Width](css/css-textarea-width.md)
 - [CSS Animation](css/css-animation.md)
 - [CSS Progress](css/css-progress.md)
 - [CSS clear Property](css/css-clear-property.md)
