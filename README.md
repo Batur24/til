@@ -103,6 +103,7 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 - [Switch between instances of the current application](linux/switch-application.md)
 - [StackOverFlow command line tool](linux/stackoverflow-command-line-tool.md)
 - [Terminal shortcut](linux/terminal-shortcut.md)
+- [Curl](linux/curl.md)
 
 ### Mac
 - [copy and paste](mac/copy-and-paste.md)
