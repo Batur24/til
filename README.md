@@ -4,6 +4,7 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 
 ### 目录
 
+* [Blog](#blog)
 * [Chrome](#chrome)
 * [CSS](#css)
 * [Django](#django)
@@ -18,6 +19,10 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 * [Tools](#tools)
 * [Vim](#vim)
 * [Other](#other)
+### Blog
+
+#### April 2019
+- [Communication](blog/communication.md)
 
 ### Chrome
 
