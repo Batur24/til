@@ -23,6 +23,7 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 
 #### April 2019
 - [Communication](blog/communication.md)
+- [Small Business](blog/small-business.md)
 
 ### Chrome
 
