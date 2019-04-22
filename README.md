@@ -22,7 +22,7 @@ Today I learned. It's to note the knowledge I learned as well as cheatsheets for
 ### Blog
 
 #### April 2019
-- [New Tech](blog/popular-tech.md)
+- [Popular Tech](blog/popular-tech.md)
 - [Small Business](blog/small-business.md)
 - [Communication](blog/communication.md)
 
